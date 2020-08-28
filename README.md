@@ -4,9 +4,8 @@
 
 ## Made by Sidorela Kollcaku
 
-​![Product Logo](https://github.com/sidorelakollcaku/employee-management-sys/blob/master/images/Screen%20Shot%202020-08-28%20at%2012.49.02%20PM.png?raw=true)
-​![Product Logo](https://github.com/sidorelakollcaku/employee-management-sys/blob/master/images/Screen%20Shot%202020-08-28%20at%2012.50.53%20PM.png?raw=true)
-
+​![Product Logo](https://github.com/sidorelakollcaku/Employee-mng-sys/blob/master/images/Screen%20Shot%202020-08-28%20at%2012.49.02%20PM.png?raw=true)
+​![Product Logo](https://github.com/sidorelakollcaku/Employee-mng-sys/blob/master/images/Screen%20Shot%202020-08-28%20at%2012.50.53%20PM.png?raw=true)
 
 ## Description
 This is an  application that takes in input from a user to build out a database of departments, roles, and employees. User can create new departments, roles, and emplyees, view a list of those items, and update employee roles. Technologies used are nodejs, mysql, inquirer, and cTable.
